@@ -1,2 +1,2 @@
 # weiyufangchen
-this is config of myblog.
+this is a config of myblog.
